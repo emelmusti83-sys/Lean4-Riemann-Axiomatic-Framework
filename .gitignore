@@ -1,0 +1,20 @@
+# Lean / Lake
+.lake/
+lake-packages/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Optional: keep JSON outputs for demos; uncomment to exclude generated numerics
+# numerics/latest_results.json
+# numerics/profile_summary.json
